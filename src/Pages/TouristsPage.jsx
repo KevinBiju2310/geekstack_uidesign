@@ -1,7 +1,7 @@
 import React from "react";
 import backgroundImg2 from "../assets/backgroundImg2.jpg";
 import backgroundImg3 from "../assets/backgroundImg3.png";
-import Navbar from "../components/Navbar";
+import Navbar from "../Components/Navbar";
 import Footer from "../Components/Footer";
 
 import travel from "../assets/TouristsPage/travel.png";

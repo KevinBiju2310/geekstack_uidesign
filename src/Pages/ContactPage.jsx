@@ -1,7 +1,7 @@
 import React from "react";
 import backgroundImg4 from "../assets/backgroundImg4.jpg";
 import ContactpageImg from "../assets/contactpageImg.png";
-import Navbar from "../components/Navbar";
+import Navbar from "../Components/Navbar";
 import Footer from "../Components/Footer";
 
 const ContactPage = () => {
