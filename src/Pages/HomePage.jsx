@@ -3,7 +3,7 @@ import backgroundImg2 from "../assets/backgroundImg2.jpg";
 import ImageMarquee from "../Components/ImageMarquee";
 import Footer from "../Components/Footer";
 import TravelCarousel from "../Components/TravelCarousel";
-import Navbar from "../components/Navbar";
+import Navbar from "../Components/Navbar";
 
 import hotels from "../assets/hotels&resorts.png";
 import dining from "../assets/Dining.png";
